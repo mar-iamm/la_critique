@@ -1,0 +1,24 @@
+{
+  "name": "la_critique",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "bootstrap-icons": "^1.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mar-iamm/la_critique.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mar-iamm/la_critique/issues"
+  },
+  "homepage": "https://github.com/mar-iamm/la_critique#readme"
+}
